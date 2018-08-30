@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">扫一扫</string>
+    <string name="radioScan">扫描</string>
+    <string name="radioGen">生成条码</string>
+</resources>
